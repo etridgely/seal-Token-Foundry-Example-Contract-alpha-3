@@ -85,6 +85,8 @@ contract ERC20Basic {
     event Transfer(address indexed from, address indexed to, uint value);
 }
 
+/**testing */
+
 /**
  * @title ERC20 interface
  * @dev see https://github.com/ethereum/EIPs/issues/20
